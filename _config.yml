@@ -1,11 +1,11 @@
 # Site
 title:              Florian Peters
 bio:                'Master student in computer engineering at ULiège.'
-description:        "General technology and Science enthusiast, always eager to tackle a new and interesting challenge."
+description:        "New technologies and Science enthusiast, always eager to tackle a fun and interesting challenge."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/Profile_picture.jpg'
-background:         'assets/img/AI-Software-Intel.jpg'
+background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                //flopeters1337.github.io
