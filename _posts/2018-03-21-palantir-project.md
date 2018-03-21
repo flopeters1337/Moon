@@ -3,6 +3,7 @@ layout: post
 title:  "Palantir Project"
 date:   2018-03-21
 excerpt: "A custom smart home virtual assistant."
+feature: /assets/img/palantir.jpg
 project: true
 tag:
 - about
