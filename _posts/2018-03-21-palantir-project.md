@@ -22,6 +22,8 @@ comments: true
   "<i>One palantir to rule them all.</i>"
 </center>
 
+---
+
 The <b>Palantir Project</b> is a personal experiment, conducted in partnership
 with [Norman Marlier](https://normanmarlier.github.io), whose ultimate objective is to 
 develop a modular smart home virtual assistant ecosystem. The system should be able 
