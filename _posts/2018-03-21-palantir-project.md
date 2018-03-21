@@ -13,10 +13,12 @@ tag:
 comments: true
 ---
 
-<center>
-  <b>Palantir</b>: a magical artifact from J.R.R. Tolkien's legendarium.
-  It is used both for communication and seeing events in other parts of the world.<br>
+<div align="left">
+  <b>Palantir</b>: a magical artifact from J.R.R. Tolkien's legendarium. 
+  It is used both for communication and seeing events in other parts of the world.
+</div>
   
+<center>
   "<i>One palantir to rule them all.</i>"
 </center>
 
