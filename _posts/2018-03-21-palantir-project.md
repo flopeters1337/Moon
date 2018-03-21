@@ -5,6 +5,7 @@ date:   2018-03-21
 excerpt: "A custom smart home virtual assistant."
 project: true
 tag:
+- about
 - AI
 - smart home
 - IOT
