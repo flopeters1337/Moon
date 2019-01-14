@@ -1,6 +1,6 @@
---- 
-layout: Teaching 
-title: Courses 
-excerpt: "List of courses I am giving or have given in the past" 
-comments: false 
+---
+layout: teaching
+title: Courses
+excerpt: "List of courses I am giving or have given in the past"
+comments: false
 ---
